@@ -34,7 +34,7 @@ namespace mydictionary
                 tvalue[tvalue.Length - 1] = val;
             }
             
-            Console.WriteLine("Eklenen id=" + id  + "Eklenen isim= " + val);
+            Console.WriteLine("Eklenen id=" + id  + "\nEklenen isim= " + val);
         }
     }
 }
